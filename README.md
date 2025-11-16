@@ -10,7 +10,7 @@ B站直播间工具 v3.0 完整便携版
 
 🚀 启动方式：
 Windows用户：双击 start_v2.bat 或 bilibili_tool_v2.exe
-Linux用户：运行 ./start_v2.sh
+Linux用户：运行 ./start_v2.sh（目前未推出Linux版，请等待）
 
 ⚙️ 首次使用：
 1. 设置B站账号凭证（菜单选项3）
@@ -18,7 +18,7 @@ Linux用户：运行 ./start_v2.sh
 3. 设置开播问候语（菜单选项6）
 
 📁 文件说明：
-- bilibili_tool_v2.exe - 主程序
+- bilibili_tool_v3_relink.exe - 主程序
 - *.dll - 所有必需的运行库
 - bilibili_tool_config.json - 配置文件
 - recordings/ - 录播文件目录
